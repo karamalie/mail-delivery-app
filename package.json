@@ -1,0 +1,9 @@
+{
+  "name": "mail-delivery",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "graphlib": "^2.1.8"
+  }
+}
