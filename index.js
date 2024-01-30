@@ -89,4 +89,5 @@ function calculateDeliveryMoves(nodes, edges, deliveries, trains) {
 // Calculate moves and solution time
 const result = calculateDeliveryMoves(stations, edges, deliveries, trains);
 console.log(result.moves);
+
 console.log(`Solution time is: ${result.solutionTime}`);
